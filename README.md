@@ -1,3 +1,6 @@
-Move to the training folder first:
+### 1. Clone the repository
 
-cd student
+```bash
+git clone https://github.com/NguyenPhamPhuongNam/AIO_MAI.git
+cd AIO_MAI
+```
