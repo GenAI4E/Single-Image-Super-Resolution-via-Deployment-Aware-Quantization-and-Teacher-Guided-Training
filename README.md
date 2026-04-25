@@ -1,4 +1,4 @@
-# AIO_MAI
+# CVPRw 2026
 
 Official repository for our MAI 2026 Quantized 4K Image Super-Resolution Challenge submission:
 
